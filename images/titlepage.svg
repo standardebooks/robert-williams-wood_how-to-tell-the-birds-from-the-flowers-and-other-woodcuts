@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 640">
+	<title>The titlepage for the Standard Ebooks edition of How to Tell the Birds from the Flowers and Other Wood-Cuts, by Robert Williams Wood</title>
+	<style type="text/css">
+		text{
+			font-family: "League Spartan";
+			letter-spacing: 5px;
+			text-anchor: middle;
+		}
+
+		.title{
+			font-size: 93.56725311px;
+		}
+
+		.author{
+			font-size: 70.17543793px;
+		}
+	</style>
+	<text class="title" x="700" y="130">HOW TO</text>
+	<text class="title" x="700" y="230">TELL THE BIRDS FROM</text>
+	<text class="title" x="700" y="330">THE FLOWERS AND</text>
+	<text class="title" x="700" y="430">OTHER WOOD-CUTS</text>
+	<text class="author" x="700" y="590">ROBERT WILLIAMS WOOD</text>
+</svg>
