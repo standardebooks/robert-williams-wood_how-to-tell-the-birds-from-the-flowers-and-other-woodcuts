@@ -26,5 +26,9 @@ p span.i1{
 }
 
 [epub|type~="z3998:poem"] .centered-stanza{
-    text-align: center;
+	text-align: center;
+}
+
+[epub|type~="z3998:poem"] .right-line{
+	text-align: right;
 }
