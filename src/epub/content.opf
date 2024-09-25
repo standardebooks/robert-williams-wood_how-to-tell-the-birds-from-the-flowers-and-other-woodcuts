@@ -51,7 +51,6 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-wood-cuts</meta>
 		<dc:creator id="author">Robert Williams Wood</dc:creator>
 		<meta property="file-as" refines="#author">Wood, Robert Williams</meta>
-		<meta property="se:name.person.full-name" refines="#author">Robert Williams Wood</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Robert_Williams_Wood</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -79,6 +78,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
