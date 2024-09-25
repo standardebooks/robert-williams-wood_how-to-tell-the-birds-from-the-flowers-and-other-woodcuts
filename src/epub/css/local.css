@@ -32,3 +32,25 @@ p span.i1{
 [epub|type~="z3998:poem"] .right-line{
 	text-align: right;
 }
+
+figure{
+	break-inside: avoid;
+	margin: 1em 40px;
+	text-align: center;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
+
+figcaption p + p{
+	text-indent: 0;
+}
