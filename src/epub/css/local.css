@@ -25,7 +25,7 @@ p span.i1{
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:poem"] .centered-stanza{
+#the-pecan-the-toucan > [epub|type~="z3998:poem"] > p:first-child{
 	text-align: center;
 }
 
