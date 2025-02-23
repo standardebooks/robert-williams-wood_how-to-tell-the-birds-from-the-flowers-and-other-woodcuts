@@ -21,8 +21,8 @@
 }
 
 [epub|type~="z3998:poem"] p > span img{
-	height: 3em;
 	float: right;
+	height: 3em;
 }
 
 p span.i1{
