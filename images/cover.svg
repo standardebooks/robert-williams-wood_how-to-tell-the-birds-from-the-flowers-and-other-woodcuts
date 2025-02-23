@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of How to Tell the Birds from the Flowers and Other Wood-Cuts, by Robert Williams Wood</title>
+	<title>The cover for the Standard Ebooks edition of How to Tell the Birds from the Flowers and Other Woodcuts, by Robert Williams Wood</title>
 	<style type="text/css">
 		.title-box{
 			fill-opacity: .75;
@@ -25,6 +25,6 @@
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
 	<text class="title-xsmall" x="700" y="1740">HOW TO TELL</text>
 	<text class="title-xsmall" x="700" y="1810">THE BIRDS FROM THE FLOWERS</text>
-	<text class="title-xsmall" x="700" y="1880">AND OTHER WOOD-CUTS</text>
+	<text class="title-xsmall" x="700" y="1880">AND OTHER WOODCUTS</text>
 	<text class="author" x="700" y="1980">ROBERT WILLIAMS WOOD</text>
 </svg>
