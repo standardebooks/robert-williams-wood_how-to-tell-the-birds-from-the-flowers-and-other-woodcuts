@@ -44,6 +44,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33346</dc:source>
 		<dc:source>https://archive.org/details/cu31924027175250</dc:source>
+		<dc:source>https://archive.org/details/animalanaloguesv00woodrich</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
