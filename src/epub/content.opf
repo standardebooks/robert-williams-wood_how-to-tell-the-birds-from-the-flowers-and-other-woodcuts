@@ -39,9 +39,9 @@
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">A physicist writes and illustrates a collection of humorous poems responding to the nature fakers controversy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>Nature fakers controversy.</p>
-			<p>Poems</p>
-			<p>Wood's background</p>
+			&lt;p&gt;Nature fakers controversy.&lt;/p&gt;
+			&lt;p&gt;Poems&lt;/p&gt;
+			&lt;p&gt;Wood's background&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33346</dc:source>
