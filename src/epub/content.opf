@@ -36,7 +36,8 @@
 		<meta property="term" refines="#subject-1">sh85004424</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Poetry</meta>
+		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A physicist writes and illustrates a collection of humorous poems responding to the nature fakers controversy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The nature fakers controversy, also called the “War of the Naturalists”, was an early 20th-century American debate over []. The controversy was kicked off in March of 1903 when naturalist and writer John Burroughs published an article “Real and Sham Natural History” in &lt;i&gt;The Atlantic Monthly&lt;/i&gt; lambasting popular nature writers for their overly-anthropomorphic depictions of wildlife and denouncing the genre of realistic animal fiction as the “yellow journalism of the woods”. The debate raged in the public press for several years, until it was effectively ended in September of 1907 by the publication of President Theodore Roosevelt’s article “Nature Fakers” in &lt;i&gt;Everybody’s Magazine&lt;/i&gt;. Roosevelt’s article sided with Burroughs and popularized the term “nature fakers” to describe those who deliberately invented details about the natural world.&lt;/p&gt;
@@ -260,6 +261,7 @@
 		<itemref idref="the-coot-the-bandicoot.xhtml"/>
 		<itemref idref="the-pitcher-plant-the-fly-catcher.xhtml"/>
 		<itemref idref="the-yellow-hammer-the-saw-fish.xhtml"/>
+		<itemref idref="authors-add-end-em.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
