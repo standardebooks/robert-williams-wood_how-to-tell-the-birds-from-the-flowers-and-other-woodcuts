@@ -30,6 +30,9 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">How to Tell the Birds from the Flowers and Other Woodcuts</dc:title>
 		<meta property="file-as" refines="#title">How to Tell the Birds from the Flowers and Other Woodcuts</meta>
+		<dc:title id="subtitle">A Revised Manual of Flornithology for Beginners</dc:title>
+		<meta property="file-as" refines="#subtitle">Revised Manual of Flornithology for Beginners, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:subject id="subject-1">American wit and humor</dc:subject>
 		<dc:subject id="subject-2">Nature study -- Humor</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -156,6 +159,7 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/cross-bill-sweet-william.xhtml" id="cross-bill-sweet-william.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/intro-duc-tion.xhtml" id="intro-duc-tion.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
