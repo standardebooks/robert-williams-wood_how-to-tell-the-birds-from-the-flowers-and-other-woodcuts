@@ -37,9 +37,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A physicist writes and illustrates a collection of humorous poems responding to the nature fakers controversy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Nature fakers controversy.</p>
+			<p>Poems</p>
+			<p>Wood's background</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33346</dc:source>
