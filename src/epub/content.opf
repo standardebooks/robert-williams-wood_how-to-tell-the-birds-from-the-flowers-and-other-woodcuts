@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-wood-cuts</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -28,8 +28,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">How to Tell the Birds from the Flowers and Other Wood-Cuts</dc:title>
-		<meta property="file-as" refines="#title">How to Tell the Birds from the Flowers and Other Wood-Cuts</meta>
+		<dc:title id="title">How to Tell the Birds from the Flowers and Other Woodcuts</dc:title>
+		<meta property="file-as" refines="#title">How to Tell the Birds from the Flowers and Other Woodcuts</meta>
 		<dc:subject id="subject-1">American wit and humor</dc:subject>
 		<dc:subject id="subject-2">Nature study -- Humor</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -49,7 +49,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-wood-cuts</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts</meta>
 		<dc:creator id="author">Robert Williams Wood</dc:creator>
 		<meta property="file-as" refines="#author">Wood, Robert Williams</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Robert_Williams_Wood</meta>
