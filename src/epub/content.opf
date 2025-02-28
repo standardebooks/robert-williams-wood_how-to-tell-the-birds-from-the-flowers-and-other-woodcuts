@@ -63,6 +63,7 @@
 		<meta property="file-as" refines="#author">Wood, Robert Williams</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Robert_Williams_Wood</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">n87125750</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Franz Marc</dc:contributor>
