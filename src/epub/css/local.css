@@ -30,7 +30,7 @@ p span.i1{
 	text-indent: -1em;
 }
 
-#the-pecan-the-toucan > [epub|type~="z3998:poem"] > p:first-child{
+#the-pecan-the-toucan[epub|type~="z3998:poem"] > p:first-of-type{
 	text-align: center;
 }
 
