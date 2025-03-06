@@ -20,11 +20,6 @@
 	display: none;
 }
 
-[epub|type~="z3998:poem"] p > span img{
-	float: right;
-	height: 3em;
-}
-
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
@@ -34,7 +29,12 @@ p span.i1{
 	text-align: center;
 }
 
-[epub|type~="z3998:poem"] .right-line{
+#the-p-cock-the-q-cumber[epub|type~="z3998:poem"] p > span img{
+	float: right;
+	height: 3em;
+}
+
+#the-p-cock-the-q-cumber[epub|type~="z3998:poem"] span:nth-child(even){
 	text-align: right;
 }
 
