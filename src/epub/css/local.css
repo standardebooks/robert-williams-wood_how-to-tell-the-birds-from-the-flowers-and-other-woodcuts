@@ -34,7 +34,7 @@ p span.i1{
 	height: 3em;
 }
 
-#the-p-cock-the-q-cumber[epub|type~="z3998:poem"] span:nth-child(even){
+#the-p-cock-the-q-cumber[epub|type~="z3998:poem"] span:nth-of-type(even){
 	text-align: right;
 }
 
