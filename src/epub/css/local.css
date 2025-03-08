@@ -30,9 +30,9 @@ p span.i1{
 }
 
 #the-p-cock-the-q-cumber[epub|type~="z3998:poem"] p > span img{
-	position: absolute;
-	left: 15.5em;
 	height: 3em;
+	left: 15.5em;
+	position: absolute;
 }
 
 #the-p-cock-the-q-cumber[epub|type~="z3998:poem"] span:nth-of-type(even){
