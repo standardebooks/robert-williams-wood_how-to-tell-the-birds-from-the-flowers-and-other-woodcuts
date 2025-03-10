@@ -15,8 +15,8 @@
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
-		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
-		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
+		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
+		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
-		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">How to Tell the Birds from the Flowers and Other Woodcuts</dc:title>
 		<meta property="file-as" refines="#title">How to Tell the Birds from the Flowers and Other Woodcuts</meta>
@@ -163,9 +163,9 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-to-tell-the-birds-from-the-flowers.xhtml" id="how-to-tell-the-birds-from-the-flowers.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/how-to-tell-the-birds-from-the-flowers.xhtml" id="how-to-tell-the-birds-from-the-flowers.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
