@@ -37,6 +37,7 @@
 		<dc:title id="fulltitle">How to Tell the Birds from the Flowers and Other Woodcuts: A Revised Manual of Flornithology for Beginners</dc:title>
 		<meta property="file-as" refines="#fulltitle">How to Tell the Birds from the Flowers and Other Woodcuts</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="dcterms:alternative" refines="#title">How to Tell the Birds from the Flowers and Other Wood-Cuts</meta>
 		<dc:subject id="subject-1">American wit and humor</dc:subject>
 		<dc:subject id="subject-2">Nature study -- Humor</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -45,6 +46,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Poetry</meta>
 		<meta property="se:subject">Satire</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A physicist writes and illustrates a collection of humorous poems responding to the nature fakers controversy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The nature fakers controversy, also called the “War of the Naturalists,” was an early 20th-century American debate over sentimentality versus accuracy in writing about nature. The controversy was kicked off in March of 1903 when naturalist and writer John Burroughs published an article “Real and Sham Natural History” in &lt;i&gt;The Atlantic Monthly&lt;/i&gt; lambasting popular nature writers for their overly-anthropomorphic depictions of wildlife and denouncing the genre of realistic animal fiction as the “yellow journalism of the woods.”&lt;/p&gt;
