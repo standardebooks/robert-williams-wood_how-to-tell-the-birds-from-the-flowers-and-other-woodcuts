@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-03-16T20:24:43Z</dc:date>
+		<meta property="dcterms:modified">2025-03-16T20:24:43Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,20 +47,19 @@
 		<meta property="se:subject">Poetry</meta>
 		<meta property="se:subject">Satire</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">A physicist writes and illustrates a collection of humorous poems responding to the nature fakers controversy.</dc:description>
+		<dc:description id="description">A physicist writes and illustrates a collection of humorous poems responding to the Nature Fakers controversy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The nature fakers controversy, also called the “War of the Naturalists,” was an early 20th-century American debate over sentimentality versus accuracy in writing about nature. The controversy was kicked off in March of 1903 when naturalist and writer John Burroughs published an article “Real and Sham Natural History” in &lt;i&gt;The Atlantic Monthly&lt;/i&gt; lambasting popular nature writers for their overly-anthropomorphic depictions of wildlife and denouncing the genre of realistic animal fiction as the “yellow journalism of the woods.”&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/robert-williams-wood"&gt;Robert Williams Wood&lt;/a&gt; (1868–1955) was a physicist who made major contributions to physical optics, spectroscopy and ultrasound. Inspired by the nature fakers controversy, Wood published &lt;i&gt;How to Tell the Birds from the Flowers: A Manual of Flornithology for Beginners&lt;/i&gt; in 1907, followed by &lt;i&gt;Animal Analogues&lt;/i&gt; in 1908. The books collect illustrated poems comparing plants and animals with similar names which satirize uninformed, anthropomorphized nature writing. The nature fakers controversy is referenced most explicitly in “The Yellow‑hammer; The Saw‑fish.”&lt;/p&gt;
-			&lt;p&gt;In 1917, the poems were combined into &lt;i&gt;How to Tell the Birds from the Flowers and Other Woodcuts: A Revised Manual of Flornithology for Beginners&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;The revised edition included two new poems, removed four poems from &lt;i&gt;Animal Analogues&lt;/i&gt;, and revised the text and illustrations of a number of others. This edition restores the missing poems from &lt;i&gt;Animal Analogues&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;The Nature Fakers controversy, also called the “War of the Naturalists,” was an early 20th-century American debate over sentimentality versus accuracy in nature writing. The controversy was kicked off in 1903 when naturalist and writer John Burroughs published his article “Real and Sham Natural History” in &lt;i&gt;The Atlantic Monthly&lt;/i&gt;, lambasting popular nature writers for their overly-anthropomorphic depictions of wildlife and denouncing the genre of realistic animal fiction as the “yellow journalism of the woods.”&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/robert-williams-wood"&gt;Robert Williams Wood&lt;/a&gt;, inspired by the nature fakers controversy, published &lt;i&gt;How to Tell the Birds from the Flowers: A Manual of Flornithology for Beginners&lt;/i&gt; in 1907, followed by &lt;i&gt;Animal Analogues&lt;/i&gt; in 1908. The books collect illustrated poems comparing plants and animals with similar names, satirizing the uninformed, anthropomorphized style of nature writing. The Nature Fakers controversy is referenced most explicitly in his poem “The Yellow‑hammer; The Saw‑fish.”&lt;/p&gt;
+			&lt;p&gt;In 1917, the books were combined into &lt;i&gt;How to Tell the Birds from the Flowers and Other Woodcuts: A Revised Manual of Flornithology for Beginners&lt;/i&gt;. The revised edition included two new poems, removed four poems from &lt;i&gt;Animal Analogues&lt;/i&gt;, and revised the text and illustrations of a number of others. This Standard Ebooks edition restores the missing poems from &lt;i&gt;Animal Analogues&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33346</dc:source>
 		<dc:source>https://archive.org/details/cu31924027175250</dc:source>
 		<dc:source>https://archive.org/details/animalanaloguesv00woodrich</dc:source>
 		<meta property="se:production-notes">This ebook follows the contents and order of the revised edition, except that it includes the four missing poems from Animal Analogues at the end.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">2713</meta>
+		<meta property="se:reading-ease.flesch">61.09</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts</meta>
 		<dc:creator id="author">Robert Williams Wood</dc:creator>
 		<meta property="file-as" refines="#author">Wood, Robert Williams</meta>
@@ -94,6 +93,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
