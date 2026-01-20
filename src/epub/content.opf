@@ -58,7 +58,7 @@
 		<dc:source>https://archive.org/details/cu31924027175250</dc:source>
 		<dc:source>https://archive.org/details/animalanaloguesv00woodrich</dc:source>
 		<meta property="se:production-notes">This ebook follows the contents and order of the revised edition, except that it includes the four missing poems from Animal Analogues at the end.</meta>
-		<meta property="se:word-count">2713</meta>
+		<meta property="se:word-count">2665</meta>
 		<meta property="se:reading-ease.flesch">61.09</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts</meta>
 		<dc:creator id="author">Robert Williams Wood</dc:creator>
