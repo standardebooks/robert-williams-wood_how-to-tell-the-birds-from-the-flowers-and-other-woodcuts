@@ -37,7 +37,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">How to Tell the Birds from the Flowers and Other Woodcuts: A Revised Manual of Flornithology for Beginners</dc:title>
 		<meta property="file-as" refines="#fulltitle">How to Tell the Birds from the Flowers and Other Woodcuts</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="dcterms:alternative" refines="#title">How to Tell the Birds from the Flowers and Other Wood-Cuts</meta>
 		<dc:subject id="subject-1">American wit and humor</dc:subject>
 		<dc:subject id="subject-2">Nature study -- Humor</dc:subject>
