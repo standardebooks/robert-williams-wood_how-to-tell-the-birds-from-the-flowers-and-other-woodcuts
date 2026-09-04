@@ -40,7 +40,7 @@
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="dcterms:alternative" refines="#title">How to Tell the Birds from the Flowers and Other Wood-Cuts</meta>
 		<dc:subject id="subject-1">American wit and humor</dc:subject>
-		<dc:subject id="subject-2">Nature study -- Humor</dc:subject>
+		<dc:subject id="subject-2">Nature study--Humor</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85004424</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
